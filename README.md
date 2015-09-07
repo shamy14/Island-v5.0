@@ -1,4 +1,4 @@
-# Island-v5.0
+# Island_v5.0
 
 ## How to test Island v5.0
 1. Download the folder "Game"
